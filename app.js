@@ -3,6 +3,9 @@ if (conditions) {
         if (condition) {
             if (condition) {
                 alert('works!!!!!!!!');
+                if (condition) {
+                    
+                }
             }
         }
     }
